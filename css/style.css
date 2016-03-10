@@ -74,7 +74,10 @@ footer{ padding:0;
 
 .we{}
 
-.more{}
+.more{ width:25%;
+       padding: 0px;
+       padding-right: 0px;
+       padding: }
 
 .sign{}
 
