@@ -26,10 +26,12 @@ header{margin: 0;
 #navbar{list-style: none;
         color: #7a1501;
         display: block;
-        background-color: #f9da0c;
+        background: hidden;
+        background-color:#f9da0c;
         text-align: center;
         font-size: .8em;
         box-sizing: border-box;
+        width: 
        }
 
 footer{ padding:0;
