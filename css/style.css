@@ -25,15 +25,20 @@ header{margin: 0;
 
 #navbar{list-style: none;
         color: #7a1501;
-        display: block;
-        background: hidden;
+        display: inline-block;
+        background: none;
         background-color:#f9da0c;
         text-align: center;
         font-size: .8em;
         box-sizing: border-box;
-        width: 
-       }
+        text-decoration: none;
+    
+        }
+a:{color:#f9da0c}
 
+a:hover{background-color: #f9da0c}
+
+.margin{ }
 footer{ padding:0;
         margin:0;
         width: 100%;
