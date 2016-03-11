@@ -43,7 +43,7 @@ a:hover{background-color: #f9da0c;}
 
 .signup{background-color:#f9da0c;}
 
-.margin{ }
+
 footer{ padding:0;
         margin:0;
         width: 100%;
@@ -67,6 +67,12 @@ footer{ padding:0;
           overflow-y: hidden;
     }
 
+.fast{ color: white;
+       font-size: .8rem;}
+
+.we{ color: white;
+     font-size: 1.8rem;}
+
 .vertical-divider{
             margin: 20px 10px 0px 10px;
             margin-top: 20px;
@@ -87,19 +93,28 @@ footer{ padding:0;
             vertical-align: middle;
 }
 
-.fast{color:white;
-      font-size: 2.0em;
-      text-transform: uppercase;
-      }
-.we{}
+.infobox{ width: 25%;
+          padding: 0px;
+          padding-top: 0px;
+          padding-right: 0px;
+          padding-bottom: 0px;
+          padding-left: 0px;
+          margin: 0px 0px 0px 0px;
+          margin-top: 0px;
+          margin-right: 0px;
+          margin-bottom: 0px;
+          margin-left: 0px;
+          display: inline-block;
+          min-height: 200px;
+          text-align: center;
+          vertical-align: top;
+          color: white;
+          font-size: 2rem;
+          background-color:#7a1501;
+    
+ }
 
-.more{ width:25%;
-       padding: 0px;
-       padding-right: 0px;
-       padding: }
 
-.sign{}
 
-.why{}
 
 
