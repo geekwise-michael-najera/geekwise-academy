@@ -110,9 +110,9 @@ footer{ padding:0;
           vertical-align: top;
           color: white;
           font-size: 2rem;
-          background-color:#7a1501;
-    
- }
+          font-weight: bold; 
+        
+ }  
 
 
 
