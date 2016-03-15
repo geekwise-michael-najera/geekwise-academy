@@ -25,12 +25,14 @@ header{margin: 0;
         width: 519.313px;
         list-style: none;
         color: #000000;
-        display:inline-block;
         text-align: center;
         box-sizing: border-box;
         text-decoration: none;
         transform: translateY(-1rem);
         font-size: 12.8px;
+        border-spacing: inherit;
+        display: inline-block;
+        text-align: center;
         }
 
 
@@ -38,8 +40,7 @@ a{color:#000000;
   text-decoration: none;
   text-transform: uppercase;
   font-weight: bold;
-  display: inline;
-  float: left;
+  width: 100px;
 
 }
 
